@@ -2,6 +2,9 @@
 dtb-$(CONFIG_ARCH_MESON) += meson-axg-s400.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-axg-jethome-jethub-j100.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-hg680-fj.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-g12a-hg680-fj-ngl.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-g12a-hg680-fj-fcl.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-g12a-b860h-v5.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-radxa-zero.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-sei510.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-g12a-tanix-tx5max.dtb
